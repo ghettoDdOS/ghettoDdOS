@@ -7,11 +7,6 @@
 
 </div>
 
-## :fire: My Stats
-
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghettoDdOS&theme=dark&background=000000" alt="Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghettoDdOS&layout=compact&theme=vision-friendly-dark" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-
 ## :hammer_and_pick: Languages, Tools, Frameworks:
 
 <div align="center" >
@@ -29,6 +24,7 @@
 <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="60"/>
 </div>
 <div align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="60" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="60" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="60" />
